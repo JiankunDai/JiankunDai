@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiankunDai
-- 👀 I’m interested in 
+- 👀 I’m working on observability system at Beijing Ziroom Information Technology Co., Ltd.
 - 🌱 I’m currently learning relational database system kernal development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
