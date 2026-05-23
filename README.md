@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiankunDai
-- 👀 I’m working on observability system at Beijing Ziroom Information Technology Co., Ltd.
-- 🌱 I’m currently learning relational database system kernal development.
+- 📚 I am currently pursuing a master's degree at East China Normal University.
+- 💼 I used to work on the observability system at Beijing Ziroom Information Technology Co., Ltd.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
